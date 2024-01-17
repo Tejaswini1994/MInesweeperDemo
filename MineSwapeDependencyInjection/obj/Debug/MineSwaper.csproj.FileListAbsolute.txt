@@ -1,0 +1,7 @@
+C:\Users\tejas\OneDrive\Desktop\NCSProj\MineSwapeDependencyInjection\MineSwapeDependencyInjection\bin\Debug\MineSwapeDependencyInjection.exe.config
+C:\Users\tejas\OneDrive\Desktop\NCSProj\MineSwapeDependencyInjection\MineSwapeDependencyInjection\bin\Debug\MineSwapeDependencyInjection.exe
+C:\Users\tejas\OneDrive\Desktop\NCSProj\MineSwapeDependencyInjection\MineSwapeDependencyInjection\bin\Debug\MineSwapeDependencyInjection.pdb
+C:\Users\tejas\OneDrive\Desktop\NCSProj\MineSwapeDependencyInjection\MineSwapeDependencyInjection\obj\Debug\MineSwaper.csproj.AssemblyReference.cache
+C:\Users\tejas\OneDrive\Desktop\NCSProj\MineSwapeDependencyInjection\MineSwapeDependencyInjection\obj\Debug\MineSwaper.csproj.CoreCompileInputs.cache
+C:\Users\tejas\OneDrive\Desktop\NCSProj\MineSwapeDependencyInjection\MineSwapeDependencyInjection\obj\Debug\MineSwapeDependencyInjection.exe
+C:\Users\tejas\OneDrive\Desktop\NCSProj\MineSwapeDependencyInjection\MineSwapeDependencyInjection\obj\Debug\MineSwapeDependencyInjection.pdb
